@@ -1,4 +1,5 @@
-### Hi there 👋
+###                              Hi 👋 I am Atinuke Adeshola-Manuels
+####                           A data Analyst and also a Software developer.
 
 
 <!-- **Atinuke-Manuels/Atinuke-Manuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
