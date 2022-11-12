@@ -16,3 +16,5 @@ Here are some ideas to get you started: -->
 - Find below some of the projects I have worked on recently.
 - [Data Analysis Portfolio- AAM 2.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995084/Data.Analysis.Portfolio-.AAM.2.pdf)
 - [project superstore - Presentation 1.pptx](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995090/project.superstore.-.Presentation.1.pptx)
+- ![Power BI visualization](https://user-images.githubusercontent.com/114990557/201477530-c56710cb-aac9-4fa0-8042-585d68ca5574.PNG)
+- ![power bi dashboard 1](https://user-images.githubusercontent.com/114990557/201477552-d8b08570-8caa-4c5d-a560-2fe57c0ce4cd.PNG)
