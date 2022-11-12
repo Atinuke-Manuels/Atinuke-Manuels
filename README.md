@@ -13,4 +13,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: aodeshola@yahoo.com     
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love reading.
-
+- Find below some of the projects I have worked on recently.
+[Data Analysis Portfolio- AAM 2.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995084/Data.Analysis.Portfolio-.AAM.2.pdf)
+[project superstore - Presentation 1.pptx](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995090/project.superstore.-.Presentation.1.pptx)
