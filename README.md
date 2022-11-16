@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my software development project at STUTERN and also as a data analyst intern at Digital Bananas
+- 🔭 I’m currently working on my software development project at STUTERN , a data analyst intern at Digital Bananas and a freelance instructor at CodeFirst girls.
 - 🌱 I’m currently learning Software development
 - 👯 I’m looking to collaborate on both data analysis and software development projects.
 - 🤔 I’m looking for help with getting my dream job
