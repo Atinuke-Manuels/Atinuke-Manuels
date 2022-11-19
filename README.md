@@ -14,8 +14,13 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: aodeshola@yahoo.com     
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love reading.
+- [Resume- Atinuke Manuels.docx.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/10048008/Resume-.Atinuke.Manuels.docx.pdf)
 - Find below some of the projects I have worked on recently.
+- [Tripple Jay Data Analysis Project 19.11.22.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/10048015/Tripple.Jay.Data.Analysis.Project.19.11.22.pdf)
 - [Data Analysis Portfolio- AAM 2.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995084/Data.Analysis.Portfolio-.AAM.2.pdf)
 - [project superstore - Presentation 1.pptx](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995090/project.superstore.-.Presentation.1.pptx)
 - ![Power BI visualization](https://user-images.githubusercontent.com/114990557/201477530-c56710cb-aac9-4fa0-8042-585d68ca5574.PNG)
 - ![power bi dashboard 1](https://user-images.githubusercontent.com/114990557/201477552-d8b08570-8caa-4c5d-a560-2fe57c0ce4cd.PNG)
+
+
+
