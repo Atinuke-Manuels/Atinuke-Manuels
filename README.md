@@ -17,9 +17,14 @@ Here are some ideas to get you started: -->
 - [Resume- Atinuke Manuels.docx.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/10048008/Resume-.Atinuke.Manuels.docx.pdf)
 - Find below some of the projects I have worked on recently.
 - Link to google clone https://atinuke-manuels.github.io/CristianoRonaldoGoogle-Assignment/
+- ![Googleclone](https://user-images.githubusercontent.com/114990557/236888902-bdc21de7-4496-46fd-bd2d-3db7d399a7a6.PNG)
 - Link to Netflix landing page clone https://atinuke-manuels.github.io/Netflix-Assignment/
+- ![netflixsnip](https://user-images.githubusercontent.com/114990557/236888943-eca6c7f5-35d9-46e0-83ab-8f491fd6a501.PNG)
 - Link to Udemy landing page clone https://atinuke-manuels.github.io/Landingudemypage---Assignment/
-- [Tripple Jay Data Analysis Project 19.11.22.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/10048015/Tripple.Jay.Data.Analysis.Project.19.11.22.pdf)
+- ![Udemy](https://user-images.githubusercontent.com/114990557/236889098-4f53612b-afe7-473c-b291-0056ab2212b9.PNG)
+- [Tripple Jay Data Anal![Up![Uploading Udemy.PNG…]()
+loading Udemy.PNG…]()
+ysis Project 19.11.22.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/10048015/Tripple.Jay.Data.Analysis.Project.19.11.22.pdf)
 - [Data Analysis Portfolio- AAM 2.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995084/Data.Analysis.Portfolio-.AAM.2.pdf)
 - [project superstore - Presentation 1.pptx](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995090/project.superstore.-.Presentation.1.pptx)
 - ![Sugar field project analysis](https://user-images.githubusercontent.com/114990557/202873589-ead4dc35-35bd-45d7-99fc-cd0631f154ff.PNG)
