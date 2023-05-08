@@ -17,7 +17,8 @@ Here are some ideas to get you started: -->
 - [Resume- Atinuke Manuels.docx.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/10048008/Resume-.Atinuke.Manuels.docx.pdf)
 - Find below some of the projects I have worked on recently.
 - Link to google clone https://atinuke-manuels.github.io/CristianoRonaldoGoogle-Assignment/
-- Link to Netflix clone https://atinuke-manuels.github.io/Netflix-Assignment/
+- Link to Netflix landing page clone https://atinuke-manuels.github.io/Netflix-Assignment/
+- Link to Udemy landing page clone https://atinuke-manuels.github.io/Landingudemypage---Assignment/
 - [Tripple Jay Data Analysis Project 19.11.22.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/10048015/Tripple.Jay.Data.Analysis.Project.19.11.22.pdf)
 - [Data Analysis Portfolio- AAM 2.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995084/Data.Analysis.Portfolio-.AAM.2.pdf)
 - [project superstore - Presentation 1.pptx](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/9995090/project.superstore.-.Presentation.1.pptx)
