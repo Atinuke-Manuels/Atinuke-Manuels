@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my software development project at STUTERN , a data analyst intern at Digital Bananas and a freelance instructor at CodeFirst girls.
+- 🔭 I’m currently working on my software development project at STUTERN , a data analyst intern and a freelance instructor at CodeFirst girls.
 - 🌱 I’m currently learning Software development
 - 👯 I’m looking to collaborate on both data analysis and software development projects.
 - 🤔 I’m looking for help with getting my dream job
@@ -20,6 +20,8 @@ Here are some ideas to get you started: -->
 - ![Googleclone](https://user-images.githubusercontent.com/114990557/236888902-bdc21de7-4496-46fd-bd2d-3db7d399a7a6.PNG)
 - Link to Netflix landing page clone https://atinuke-manuels.github.io/Netflix-Assignment/
 - ![netflixsnip](https://user-images.githubusercontent.com/114990557/236888943-eca6c7f5-35d9-46e0-83ab-8f491fd6a501.PNG)
+- Link to TO-DO-LIST  https://atinuke-manuels.github.io/TODO_LIST_JS_ASSIGNMENT/
+- ![Todo](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/771ddb3b-bed4-452b-8e49-6b7c8decbc1f)
 - Link to Udemy landing page clone https://atinuke-manuels.github.io/Landingudemypage---Assignment/
 - ![Udemy](https://user-images.githubusercontent.com/114990557/236889098-4f53612b-afe7-473c-b291-0056ab2212b9.PNG)
 - [Tripple Jay Data Anal![Up![Uploading Udemy.PNG…]()
