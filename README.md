@@ -1,21 +1,24 @@
 ###                              Hi 👋 I am Atinuke Adeshola-Manuels
-####                           A data Analyst and also a Software developer.
+####                           Mobile Developer and also a Data Analyst.
 
 
 <!-- **Atinuke-Manuels/Atinuke-Manuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my software development project at STUTERN , a data analyst intern and a freelance instructor at CodeFirst girls.
-- 🌱 I’m currently learning Software development
-- 👯 I’m looking to collaborate on both data analysis and software development projects.
+- 🔭 I’m currently working learning Mobile Development in a comprehensive training organised by Tech4Dev.
+- 👯 I’m looking to forward to practicing my new found skills through available internship opportunities.
 - 🤔 I’m looking for help with getting my dream job
-- 💬 Ask me about Power BI, SQL, Tableau, HTML,CSS, JavaScript
+- 💬 Ask me about Flutter, Jetpack Compose, XML, Power BI, SQL, Tableau, HTML,CSS, JavaScript
 - 📫 How to reach me: aodeshola@yahoo.com     
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love reading.
-- [Resume- Atinuke Manuels.docx.pdf](https://drive.google.com/file/d/19CFM7aDwxPOR60RgouCkkUxKc73P9fZq/view?usp=sharing))
+- [Mobile Developer.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/14439645/Mobile.Developer.pdf)
 - Find below some of the projects I have worked on recently.
+- ![WhatsApp Image 2024-02-28 at 9 33 10 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/f9f2173c-4a98-416f-b539-2eab0e2d0073)
+- ![WhatsApp Image 2024-02-28 at 9 33 10 PM (2)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/afaaf89e-9b15-487e-8b54-0b803d887035)
+- ![WhatsApp Image 2024-02-28 at 9 33 11 PM (1)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/e3a1a981-b356-48d0-9d4a-7642bcce116e)
+- ![WhatsApp Image 2024-02-28 at 9 33 11 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/527aba56-d849-4f57-966a-283b498a9984)
 - Link to clearly app -An app for people with special needs. (https://expo.dev/@aamanuels/clearly_app?serviceType=classic&distribution=expo-go)
 - ![WhatsApp Image 2023-07-13 at 12 36 09 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/bb32a27a-35a3-44a6-9974-c8ce71d44e4b)
 - Link to google clone https://atinuke-manuels.github.io/CristianoRonaldoGoogle-Assignment/
