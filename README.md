@@ -15,6 +15,11 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love reading.
 - [Mobile Developer.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/14439645/Mobile.Developer.pdf)
 - Find below some of the projects I have worked on recently.
+- ![WhatsApp Image 2024-03-04 at 1 53 40 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/9bef99eb-ca35-461c-9665-289171a8b9b5)
+- ![WhatsApp Image 2024-03-04 at 1 53 40 PM (2)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/71f7c8b6-e64b-4bf3-b4c5-7be2151bd5bf)
+- ![WhatsApp Image 2024-03-04 at 1 53 39 PM (3)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/d56f5106-64f1-4bc3-abf4-92ea557cf12d)
+- ![WhatsApp Image 2024-03-04 at 1 53 39 PM (1)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/4092dcff-ea19-4778-aa17-347af2b3c819)
+- ![WhatsApp Image 2024-03-04 at 1 53 39 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/91311384-ec94-414b-bc22-88f69eb14935)
 - ![WhatsApp Image 2024-02-28 at 9 33 10 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/f9f2173c-4a98-416f-b539-2eab0e2d0073)
 - ![WhatsApp Image 2024-02-28 at 9 33 10 PM (2)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/afaaf89e-9b15-487e-8b54-0b803d887035)
 - ![WhatsApp Image 2024-02-28 at 9 33 11 PM (1)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/e3a1a981-b356-48d0-9d4a-7642bcce116e)
