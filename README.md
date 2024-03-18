@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🔭 I learnt FrontEnd Development in a comprehensive training organised by Meta via Coursera.
 - 👯 I’m looking forward to practicing my new found skills through available internship opportunities.
 - 🤔 I’m looking for help with getting my dream job
-- 💬 Ask me about Flutter, Jetpack Compose, XML, Power BI, SQL, Tableau, HTML,CSS, JavaScript
+- 💬 Ask me about React, Flutter, Jetpack Compose, XML, Power BI, SQL, Tableau, HTML,CSS, JavaScript
 - 📫 How to reach me: aodeshola@yahoo.com     
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love reading.
