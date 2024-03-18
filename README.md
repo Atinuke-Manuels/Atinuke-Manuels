@@ -16,6 +16,10 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love reading.
 - [Mobile Developer.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/14439645/Mobile.Developer.pdf)
 - Find below some of the projects I have worked on recently.
+- Some websites - https://dfasite.netlify.app/
+- ![hillslopes](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/b58743af-5610-4905-8117-0413eff7a470).
+- Link to Little Lemon Website - A food ordering platform https://dapper-lollipop-b60712.netlify.app/
+- ![little lemon](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/d6456ccc-032c-4850-a575-83c6e98775be).
 - ![WhatsApp Image 2024-03-04 at 1 53 40 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/9bef99eb-ca35-461c-9665-289171a8b9b5)
 - ![WhatsApp Image 2024-03-04 at 1 53 40 PM (2)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/71f7c8b6-e64b-4bf3-b4c5-7be2151bd5bf)
 - ![WhatsApp Image 2024-03-04 at 1 53 39 PM (3)](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/d56f5106-64f1-4bc3-abf4-92ea557cf12d)
@@ -27,8 +31,6 @@ Here are some ideas to get you started: -->
 - ![WhatsApp Image 2024-02-28 at 9 33 11 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/527aba56-d849-4f57-966a-283b498a9984)
 - Link to clearly app -An app for people with special needs. (https://expo.dev/@aamanuels/clearly_app?serviceType=classic&distribution=expo-go)
 - ![WhatsApp Image 2023-07-13 at 12 36 09 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/bb32a27a-35a3-44a6-9974-c8ce71d44e4b)
-- Link to Little Lemon Website - A food ordering platform https://dapper-lollipop-b60712.netlify.app/
-- ![little lemon](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/d6456ccc-032c-4850-a575-83c6e98775be).
 - Link to Netflix landing page clone https://atinuke-manuels.github.io/Netflix-Assignment/
 - ![netflixsnip](https://user-images.githubusercontent.com/114990557/236888943-eca6c7f5-35d9-46e0-83ab-8f491fd6a501.PNG)
 - Link to Udemy landing page clone https://atinuke-manuels.github.io/Landingudemypage---Assignment/
