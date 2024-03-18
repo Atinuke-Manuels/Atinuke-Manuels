@@ -26,8 +26,8 @@ Here are some ideas to get you started: -->
 - ![WhatsApp Image 2024-02-28 at 9 33 11 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/527aba56-d849-4f57-966a-283b498a9984)
 - Link to clearly app -An app for people with special needs. (https://expo.dev/@aamanuels/clearly_app?serviceType=classic&distribution=expo-go)
 - ![WhatsApp Image 2023-07-13 at 12 36 09 PM](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/bb32a27a-35a3-44a6-9974-c8ce71d44e4b)
-- Link to google clone https://atinuke-manuels.github.io/CristianoRonaldoGoogle-Assignment/
-- ![Googleclone](https://user-images.githubusercontent.com/114990557/236888902-bdc21de7-4496-46fd-bd2d-3db7d399a7a6.PNG)
+- Link to Little Lemon Website - A food ordering platform https://dapper-lollipop-b60712.netlify.app/
+- ![little lemon](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/d6456ccc-032c-4850-a575-83c6e98775be).
 - Link to Netflix landing page clone https://atinuke-manuels.github.io/Netflix-Assignment/
 - ![netflixsnip](https://user-images.githubusercontent.com/114990557/236888943-eca6c7f5-35d9-46e0-83ab-8f491fd6a501.PNG)
 - Link to Udemy landing page clone https://atinuke-manuels.github.io/Landingudemypage---Assignment/
