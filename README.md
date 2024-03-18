@@ -1,12 +1,12 @@
 ###                              Hi 👋 I am Atinuke Adeshola-Manuels
-####                           Mobile Developer and also a Data Analyst.
+####                           Software Developer(Mobile & Web) and also a Data Analyst.
 
 
 <!-- **Atinuke-Manuels/Atinuke-Manuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working learning Mobile Development in a comprehensive training organised by Tech4Dev.
+- 🔭 I learnt Mobile Development in a comprehensive training organised by Tech4Dev.
 - 👯 I’m looking forward to practicing my new found skills through available internship opportunities.
 - 🤔 I’m looking for help with getting my dream job
 - 💬 Ask me about Flutter, Jetpack Compose, XML, Power BI, SQL, Tableau, HTML,CSS, JavaScript
