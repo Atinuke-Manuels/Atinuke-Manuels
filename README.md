@@ -14,6 +14,11 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love reading.
 - [Mobile Developer.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/14439645/Mobile.Developer.pdf)
 - Find below some of the projects I have worked on recently.
+- Mobile apps
+- ![pic1](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/0c3b0fca-177f-44db-ba89-d07d5fd524ad)
+- ![pic2](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/999534ab-2c28-4618-9ac9-55d46a30078b)
+- ![pic3](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/340e0b15-56ec-4200-b2eb-1484951ded7d)
+- ![pic4](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/18fd0822-739f-490e-8cdf-ec52c49eab43)
 - Some websites - https://dfasite.netlify.app/
 - ![hillslopes](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/b58743af-5610-4905-8117-0413eff7a470).
 - Link to Little Lemon Website - A food ordering platform https://dapper-lollipop-b60712.netlify.app/
