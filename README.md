@@ -8,6 +8,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I learnt Mobile Development in a comprehensive training organised by Tech4Dev.
 - 🔭 I learnt FrontEnd Development in a comprehensive training organised by Meta via Coursera.
+- 🔭 I am also a certified instructor - Data and SQL.
 - 💬 Ask me about React, Flutter, Jetpack Compose, XML, Power BI, SQL, Tableau, HTML,CSS, JavaScript
 - 📫 How to reach me: aodeshola@yahoo.com     
 - 😄 Pronouns: She
