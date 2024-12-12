@@ -1,5 +1,5 @@
 ###                              Hi 👋 I am Atinuke Adeshola-Manuels
-####                           Software Developer(Mobile & Web) and also a Data Analyst.
+####                           Mobile Developer and also a Data Analyst.
 
 
 <!-- **Atinuke-Manuels/Atinuke-Manuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,15 @@ Here are some ideas to get you started: -->
 - [Mobile Developer.pdf](https://github.com/Atinuke-Manuels/Atinuke-Manuels/files/14439645/Mobile.Developer.pdf)
 - Find below some of the projects I have worked on recently.
 - Mobile apps
+- Story Land App preview
+- ![WhatsApp Image 2024-12-12 at 2 52 58 PM](https://github.com/user-attachments/assets/dace2c16-0601-474d-93cb-ed2677a95623)
+- ![WhatsApp Image 2024-12-12 at 2 52 57 PM (2)](https://github.com/user-attachments/assets/331ed6fd-6d49-418c-8af0-f19d313bc007)
+- ![WhatsApp Image 2024-12-12 at 2 52 57 PM (1)](https://github.com/user-attachments/assets/b3f63907-754a-4415-a2e6-e4f340f005e3)
+- Easy Vote App preview
+- ![WhatsApp Image 2024-12-12 at 2 52 58 PM (2)](https://github.com/user-attachments/assets/fce35e0b-229b-45f0-83a0-0c5aa819d7e6)
+- ![WhatsApp Image 2024-12-12 at 2 52 58 PM (1)](https://github.com/user-attachments/assets/10d31245-4b0c-4639-9811-e92b132a407e)
+- ![WhatsApp Image 2024-12-12 at 2 52 57 PM](https://github.com/user-attachments/assets/4f3abd00-58b3-446a-904d-d1b55f0c0575)
+- Laundry Ease App preview
 - ![pic1](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/0c3b0fca-177f-44db-ba89-d07d5fd524ad)
 - ![pic2](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/999534ab-2c28-4618-9ac9-55d46a30078b)
 - ![pic3](https://github.com/Atinuke-Manuels/Atinuke-Manuels/assets/114990557/340e0b15-56ec-4200-b2eb-1484951ded7d)
